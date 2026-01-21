@@ -14,5 +14,7 @@ Ajoute ta liste dans la section suivante 👇
 ## 🥣 Ma liste d’ingrédients
 
 - œufs  
-- sucre
+- sucre  
+- farine
 - chocolat
+- beurre
