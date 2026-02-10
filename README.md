@@ -4,7 +4,7 @@ Bienvenue dans cet atelier d’introduction à l’intégration et livraison con
 
 ## 🧑‍🍳 Objectif
 
-Modifie ce fichier pour y ajouter **les ingrédients de la recette du gâteau au chocolat** ci-dessous.  
+Modifie ce fichier pour y ajouter **les ingrédients de la recette du _chocolate cake_** ci-dessous.  
 Si ta liste d’ingrédients est complète et correcte, ton site se déploiera automatiquement !
 
 Ajoute ta liste dans la section suivante 👇
