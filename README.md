@@ -15,6 +15,3 @@ Ajoute ta liste dans la section suivante 👇
 
 - œufs  
 - sucre  
-- farine
-- chocolat
-- beurre
